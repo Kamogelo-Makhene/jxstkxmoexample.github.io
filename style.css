@@ -18,7 +18,7 @@ a{
 section{
   width: 100%;
   height: 95vh;
-  background-image: url(../WITS2/bg.png);
+  background-image: url(bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
@@ -240,15 +240,15 @@ button:active{
 }
 
 .box-1{
-  background-image: url(../WITS2/services-1.png);
+  background-image: url(services-1.png);
 }
 
 .box-2{
-  background-image: url(../WITS2/services-2.png);
+  background-image: url(services-2.png);
 }
 
 .box-3{
-  background-image: url(../WITS2/servies-3.png);
+  background-image: url(servies-3.png);
 }
 
 .box-1 span,
@@ -302,7 +302,7 @@ button:active{
 .contact-me{
   width: 100%;
   height: 280px;
-  background-image: url(../WITS2/project\ in\ your\ mind.png);
+  background-image: url(project\ in\ your\ mind.png);
   background-size: cover;
   background-repeat: no-repeat;
   display: flex;
