@@ -522,6 +522,7 @@ footer p:nth-child(2){
     align-items: center;
     z-index: 1;
     display: none;
+    border: none;
   }
   nav ul li{
     padding: 10px;
