@@ -114,6 +114,10 @@ font-weight: 700;
   margin: 0px 10px;
 }
 
+.hire-btn{
+  border: 2px solid #373636;
+  color: #373636;
+}
 
 .down-cv{
   background-color: #0b0b0b;
