@@ -85,13 +85,13 @@ font-weight: 700;
 .text-container p:nth-last-child(3){
   font-family: sans-serif 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   color: #403e3e;
-  font-size: 30px;
+  font-size: 60px;
   line-height: 30px;
   
 }
 
 .text-container p{
-  line-height: 0px;
+  
   margin: 45px 0px 25px;
 
 }
@@ -180,8 +180,8 @@ button:active{
 }
 
 .about-text button{
-  width: 88px;
-  height: 40px;
+  width: 78px;
+  height: 50px;
   color: #ffffff;
   outline: none;
   border: none;
@@ -425,6 +425,7 @@ footer p:nth-child(2){
 @media(max-width:1000px){
   *{
     box-sizing: border-box;
+    font-size: 22px;
 
   }
   .model{
